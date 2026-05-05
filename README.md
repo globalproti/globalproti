@@ -1,29 +1,30 @@
 <div align="center">
 
-<br/>
-
 <a href="https://www.globalprosp.com.br/">
-  <img src="./logo.png" width="300" alt="GlobalPro — Cosméticos Sob Medida" />
+  <img src="./banner.svg" width="100%" alt="GlobalPro — Cosméticos Sob Medida" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=2800&pause=900&color=7368AB&center=true&vCenter=true&width=560&lines=GlobalPro+%E2%80%94+Cosm%C3%A9ticos+Sob+Medida;Tecnologia+que+transforma;Inova%C3%A7%C3%A3o+em+cada+processo;Qualidade+do+desenvolvimento+ao+produto" alt="Typing SVG" />
+<a href="https://www.globalprosp.com.br/">
+  <img src="./logo.png" width="260" alt="GlobalPro logo" />
+</a>
 
 <br/><br/>
 
-[![Site](https://img.shields.io/badge/globalprosp.com.br-2b2e5a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.globalprosp.com.br/)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=2800&pause=900&color=7368AB&center=true&vCenter=true&width=540&lines=Tecnologia+que+transforma+a+cosm%C3%A9tica;Inova%C3%A7%C3%A3o+do+desenvolvimento+ao+produto;Sistemas+integrados+para+a+ind%C3%BAstria+cosm%C3%A9tica;Qualidade%2C+efici%C3%AAncia+e+rastreabilidade" alt="Typing animation" />
 
-<br/>
+<br/><br/>
 
-Desenvolvemos **tecnologia de ponta** para a indústria cosmética,<br/>
-unindo inovação, qualidade e eficiência em cada solução.
+[![Website](https://img.shields.io/badge/globalprosp.com.br-2b2e5a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.globalprosp.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7368ab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/globalproti)
+[![Instagram](https://img.shields.io/badge/Instagram-2b2e5a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/globalproti)
 
 <br/>
 
 </div>
 
----
+<img src="./wave.svg" width="100%"/>
 
 ## ⚡ Stack Tecnológico
 
@@ -31,35 +32,31 @@ unindo inovação, qualidade e eficiência em cada solução.
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-2b2e5a?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-7368ab?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2b2e5a?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7368ab?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2b2e5a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js&perline=5" alt="Frontend skills" />
 
 <br/>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-2b2e5a?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-7368ab?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2b2e5a?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-7368ab?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL_Server-2b2e5a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,docker,azure&perline=5" alt="Backend skills" />
 
 <br/>
 
-**Infraestrutura & DevOps**
+**Ferramentas**
 
-![Docker](https://img.shields.io/badge/Docker-2b2e5a?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-7368ab?style=flat-square&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-2b2e5a?style=flat-square&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-7368ab?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2b2e5a?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,nginx,vscode,figma&perline=5" alt="Tools" />
+
+<br/>
+
+**Banco de Dados**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-2b2e5a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7368ab?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2b2e5a?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
----
+<img src="./wave.svg" width="100%"/>
 
 ## 🧬 DNA GlobalPro
 
@@ -75,7 +72,7 @@ unindo inovação, qualidade e eficiência em cada solução.
 
 </div>
 
----
+<img src="./wave.svg" width="100%"/>
 
 ## 📐 Metodologias & Práticas
 
@@ -89,10 +86,12 @@ unindo inovação, qualidade e eficiência em cada solução.
 ![Microservices](https://img.shields.io/badge/Microservices-2b2e5a?style=flat-square)
 ![TDD](https://img.shields.io/badge/TDD-7368ab?style=flat-square)
 ![Code Review](https://img.shields.io/badge/Code_Review-2b2e5a?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-7368ab?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-2b2e5a?style=flat-square)
 
 </div>
 
----
+<img src="./wave.svg" width="100%"/>
 
 ## 🏭 O que construímos
 
@@ -117,7 +116,71 @@ Sistemas de gestão integrada para a indústria cosmética
 
 </div>
 
----
+<img src="./wave.svg" width="100%"/>
+
+## 📊 GlobalPro em Números
+
+<div align="center">
+
+<br/>
+
+![Repositórios](https://img.shields.io/badge/Repositórios_Ativos-12+-7368ab?style=for-the-badge&logo=github&logoColor=white)
+![Sistemas](https://img.shields.io/badge/Sistemas_Integrados-6+-2b2e5a?style=for-the-badge&logo=databricks&logoColor=white)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-15+-7368ab?style=for-the-badge&logo=stackshare&logoColor=white)
+
+<br/>
+
+</div>
+
+<img src="./wave.svg" width="100%"/>
+
+## 📌 Repositórios em Destaque
+
+<div align="center">
+
+<a href="https://github.com/globalproti/GlobalPro-Manufatura">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=GlobalPro-Manufatura&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="GlobalPro-Manufatura" />
+</a>
+<a href="https://github.com/globalproti/GlobalPro-CQ">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=GlobalPro-CQ&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="GlobalPro-CQ" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/globalproti/manufatura-app">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=manufatura-app&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="manufatura-app" />
+</a>
+<a href="https://github.com/globalproti/pedidos-pendentes">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=pedidos-pendentes&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="pedidos-pendentes" />
+</a>
+
+</div>
+
+<img src="./wave.svg" width="100%"/>
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=globalproti&bg_color=0d1117&color=7368ab&line=7368ab&point=c4bfe8&area=true&area_color=7368ab&hide_border=true&radius=6" width="100%" alt="Activity graph" />
+
+</div>
+
+<img src="./wave.svg" width="100%"/>
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/globalproti/globalproti/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/globalproti/globalproti/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/globalproti/globalproti/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<img src="./wave.svg" width="100%"/>
 
 ## 🌐 Conheça a GlobalPro
 
