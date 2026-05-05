@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=7368AB&center=true&vCenter=true&width=600&lines=GlobalPro+%E2%80%94+Cosm%C3%A9ticos+Sob+Medida;Tecnologia+que+transforma;Inovação+em+cada+processo;Qualidade+do+desenvolvimento+ao+produto" alt="Typing SVG" />
+<a href="https://www.globalprosp.com.br/">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=800&color=7368AB&center=true&vCenter=true&width=550&lines=GlobalPro+%E2%80%94+Cosm%C3%A9ticos+Sob+Medida;Tecnologia+que+transforma;Inova%C3%A7%C3%A3o+em+cada+processo;Do+desenvolvimento+ao+produto" alt="GlobalPro" />
+</a>
 
 <br/>
 
-[![Site](https://img.shields.io/badge/🌐_globalprosp.com.br-2b2e5a?style=for-the-badge&logoColor=white)](https://www.globalprosp.com.br/)
+[![Site](https://img.shields.io/badge/%F0%9F%8C%90%20globalprosp.com.br-2b2e5a?style=for-the-badge)](https://www.globalprosp.com.br/)
 
 </div>
 
@@ -12,16 +14,8 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║        G L O B A L P R O  ·  Cosméticos Sob Medida                 ║
-║                                                                      ║
-║   Desenvolvemos tecnologia de ponta para a indústria cosmética,     ║
-║   unindo inovação, qualidade e eficiência em cada solução.          ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+Desenvolvemos **tecnologia de ponta** para a indústria cosmética,<br/>
+unindo inovação, qualidade e eficiência em cada solução.
 
 </div>
 
@@ -31,7 +25,7 @@
 
 <div align="center">
 
-### Frontend
+**Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-2b2e5a?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-7368ab?style=flat-square&logo=react&logoColor=white)
@@ -39,7 +33,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7368ab?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b2e5a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-### Backend
+<br/>
+
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-2b2e5a?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-7368ab?style=flat-square&logo=express&logoColor=white)
@@ -47,7 +43,9 @@
 ![REST API](https://img.shields.io/badge/REST_API-7368ab?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2b2e5a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### Infraestrutura & DevOps
+<br/>
+
+**Infraestrutura & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2b2e5a?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-7368ab?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -63,13 +61,13 @@
 
 <div align="center">
 
-| Pilar | Descrição |
-|:---:|:---|
-| 🎯 **Excelência** | Soluções robustas, escaláveis e rigorosamente testadas |
-| 🚀 **Inovação** | Tecnologia de ponta aplicada à indústria cosmética |
-| 🔄 **Agilidade** | Entregas rápidas com qualidade e rastreabilidade |
-| 🤝 **Colaboração** | Times integrados, comunicação clara, resultados reais |
-| 🔒 **Segurança** | Dados protegidos, compliance e boas práticas em cada linha |
+| | Pilar | |
+|:---:|:---|:---|
+| 🎯 | **Excelência** | Soluções robustas, escaláveis e rigorosamente testadas |
+| 🚀 | **Inovação** | Tecnologia de ponta aplicada à indústria cosmética |
+| 🔄 | **Agilidade** | Entregas rápidas com qualidade e rastreabilidade |
+| 🤝 | **Colaboração** | Times integrados, comunicação clara, resultados reais |
+| 🔒 | **Segurança** | Dados protegidos, compliance e boas práticas em cada linha |
 
 </div>
 
@@ -94,22 +92,26 @@
 
 ## 🏭 O que construímos
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   Sistemas de gestão integrada para a indústria cosmética           │
-│                                                                     │
-│   ▸ Controle de Qualidade e Conformidade (CQ)                      │
-│   ▸ Gestão de Manufatura e Produção                                 │
-│   ▸ Relatórios e Business Intelligence                              │
-│   ▸ Automação de Processos Industriais                              │
-│   ▸ Gestão Fiscal e Financeira                                      │
-│   ▸ Portais de Orçamento e Pedidos                                  │
-│                                                                     │
-│   Tudo integrado. Tudo rastreável. Tudo GlobalPro.                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+Sistemas de gestão integrada para a indústria cosmética
+
+</div>
+
+| Solução | Descrição |
+|---|---|
+| 🔬 **Controle de Qualidade** | Conformidade e rastreabilidade de lotes |
+| 🏗️ **Manufatura & Produção** | Gestão completa do chão de fábrica |
+| 📊 **Business Intelligence** | Relatórios e dashboards em tempo real |
+| ⚙️ **Automação de Processos** | Integração e automação industrial |
+| 💼 **Gestão Fiscal** | Compliance fiscal e financeiro |
+| 📋 **Pedidos & Orçamentos** | Portais de venda e solicitação |
+
+<div align="center">
+
+*Tudo integrado. Tudo rastreável. Tudo GlobalPro.*
+
+</div>
 
 ---
 
@@ -119,7 +121,7 @@
 
 <br/>
 
-[![Acesse nosso site](https://img.shields.io/badge/🔗_Acesse_nosso_site-globalprosp.com.br-7368ab?style=for-the-badge)](https://www.globalprosp.com.br/)
+[![Acesse nosso site](https://img.shields.io/badge/%F0%9F%94%97%20Acesse%20nosso%20site%20%E2%80%94%20globalprosp.com.br-7368ab?style=for-the-badge)](https://www.globalprosp.com.br/)
 
 <br/>
 
@@ -127,7 +129,7 @@
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=lucasjpl&color=7368ab&style=flat-square&label=Visitas+ao+perfil)
+![Visitors](https://komarev.com/ghpvc/?username=globalproti&color=7368ab&style=flat-square&label=visitas+ao+perfil)
 
 </div>
 
@@ -135,6 +137,6 @@
 
 <div align="center">
 
-**GlobalPro © 2024** · [globalprosp.com.br](https://www.globalprosp.com.br/)
+**GlobalPro © 2024** &nbsp;·&nbsp; [globalprosp.com.br](https://www.globalprosp.com.br/)
 
 </div>
