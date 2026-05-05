@@ -136,35 +136,56 @@ Sistemas de gestão integrada para a indústria cosmética
 
 ## 📌 Repositórios em Destaque
 
-<div align="center">
-
-<a href="https://github.com/globalproti/GlobalPro-Manufatura">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=GlobalPro-Manufatura&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="GlobalPro-Manufatura" />
-</a>
-<a href="https://github.com/globalproti/GlobalPro-CQ">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=GlobalPro-CQ&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="GlobalPro-CQ" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/globalproti/manufatura-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=manufatura-app&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="manufatura-app" />
-</a>
-<a href="https://github.com/globalproti/pedidos-pendentes">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=globalproti&repo=pedidos-pendentes&theme=dark&bg_color=0d1117&border_color=7368ab&title_color=7368ab&text_color=c9d1d9&icon_color=7368ab" alt="pedidos-pendentes" />
-</a>
-
-</div>
-
-<img src="./wave.svg" width="100%"/>
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=globalproti&bg_color=0d1117&color=7368ab&line=7368ab&point=c4bfe8&area=true&area_color=7368ab&hide_border=true&radius=6" width="100%" alt="Activity graph" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/globalproti/GlobalPro-Manufatura">
+        <br/>
+        <b>🏗️ GlobalPro Manufatura</b><br/>
+        <sub>Gestão de Manufatura & Produção</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-2b2e5a?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-7368ab?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2b2e5a?style=flat-square&logo=docker&logoColor=white"/>
+        <br/><br/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/globalproti/GlobalPro-CQ">
+        <br/>
+        <b>🔬 GlobalPro CQ</b><br/>
+        <sub>Controle de Qualidade</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-2b2e5a?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-7368ab?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-2b2e5a?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <br/><br/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/globalproti/manufatura-app">
+        <br/>
+        <b>📱 Manufatura App</b><br/>
+        <sub>Portal de Manufatura</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-2b2e5a?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-7368ab?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2b2e5a?style=flat-square&logo=docker&logoColor=white"/>
+        <br/><br/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/globalproti/pedidos-pendentes">
+        <br/>
+        <b>📋 Pedidos Pendentes</b><br/>
+        <sub>Portal de Gestão de Pedidos</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-2b2e5a?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-7368ab?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-2b2e5a?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <br/><br/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="./wave.svg" width="100%"/>
 
