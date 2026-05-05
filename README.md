@@ -1,12 +1,20 @@
 <div align="center">
 
-<a href="https://www.globalprosp.com.br/">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=800&color=7368AB&center=true&vCenter=true&width=550&lines=GlobalPro+%E2%80%94+Cosm%C3%A9ticos+Sob+Medida;Tecnologia+que+transforma;Inova%C3%A7%C3%A3o+em+cada+processo;Do+desenvolvimento+ao+produto" alt="GlobalPro" />
-</a>
-
 <br/>
 
-[![Site](https://img.shields.io/badge/%F0%9F%8C%90%20globalprosp.com.br-2b2e5a?style=for-the-badge)](https://www.globalprosp.com.br/)
+<a href="https://www.globalprosp.com.br/">
+  <img src="./logo.png" width="320" alt="GlobalPro — Cosméticos Sob Medida" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2800&pause=900&color=7368AB&center=true&vCenter=true&width=520&lines=Tecnologia+que+transforma+a+cosm%C3%A9tica;Inova%C3%A7%C3%A3o+do+desenvolvimento+ao+produto;Sistemas+integrados+para+ind%C3%BAstria+cosmética;Qualidade%2C+efici%C3%AAncia+e+rastreabilidade" alt="Typing animation" />
+
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90%20%20globalprosp.com.br%20%20-2b2e5a?style=for-the-badge&logoColor=white)](https://www.globalprosp.com.br/)
+
+<br/>
 
 </div>
 
@@ -121,7 +129,7 @@ Sistemas de gestão integrada para a indústria cosmética
 
 <br/>
 
-[![Acesse nosso site](https://img.shields.io/badge/%F0%9F%94%97%20Acesse%20nosso%20site%20%E2%80%94%20globalprosp.com.br-7368ab?style=for-the-badge)](https://www.globalprosp.com.br/)
+[![Acesse nosso site](https://img.shields.io/badge/%F0%9F%94%97%20%20Acesse%20nosso%20site%20%E2%80%94%20globalprosp.com.br%20%20-7368ab?style=for-the-badge)](https://www.globalprosp.com.br/)
 
 <br/>
 
@@ -131,12 +139,14 @@ Sistemas de gestão integrada para a indústria cosmética
 
 ![Visitors](https://komarev.com/ghpvc/?username=globalproti&color=7368ab&style=flat-square&label=visitas+ao+perfil)
 
+<br/>
+
 </div>
 
 ---
 
 <div align="center">
 
-**GlobalPro © 2024** &nbsp;·&nbsp; [globalprosp.com.br](https://www.globalprosp.com.br/)
+**GlobalPro © 2025** &nbsp;·&nbsp; [globalprosp.com.br](https://www.globalprosp.com.br/)
 
 </div>
